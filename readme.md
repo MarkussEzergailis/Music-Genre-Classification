@@ -14,12 +14,11 @@ The rapid growth of digital music libraries has increased the need for automated
 
 ---
 ## How to use it
-'''bash
+''' bash
 git clone https://github.com/MarkussEzergailis/Music-Genre-Classification.git  
 cd Music-Genre-Classification  
 pip install -r requirements.txt  
 streamlit run dash
-'''
 
 ---
 ## Results
