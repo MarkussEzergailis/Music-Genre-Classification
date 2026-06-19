@@ -21,6 +21,7 @@ cd Music-Genre-Classification
 pip install -r requirements.txt 
 streamlit run dash.py
 ```
+Also accessible via this link: https://me-musicgenreclassification.streamlit.app/
 ---
 ## Results
 ![Screenshot](results.png)
